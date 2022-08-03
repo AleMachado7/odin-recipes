@@ -17,5 +17,9 @@ ul.homeUL {
 }
 
 a {
-    font-size: 17px;
+    font-size: 18px;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
