@@ -1,0 +1,21 @@
+body {
+    background-color: khaki;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+div, h1 {
+    text-align: center;
+}
+
+ul.homeUL {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    font-size: 17px;
+}
